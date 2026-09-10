@@ -1,0 +1,2 @@
+Luego de consultar estos datos con la intención de conocer qué lenguaje de programación preferían más los desarrolladores web
+que fueron encuestados, descubrí que la mayoría prefiere python
