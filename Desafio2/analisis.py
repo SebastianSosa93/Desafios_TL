@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("./Desafio2/programming_language_survey4004.csv")
+df = pd.read_csv("./Desafio2/data/programming_language_survey4004.csv")
 head = df.head()
 print("Primeros 5 registros del dataset:")
 print(head)
